@@ -1,0 +1,7 @@
+server:
+  port: 8032
+spring:
+  application:
+    name: app-entelgy
+external-service:
+  url: https://reqres.in/api/users
